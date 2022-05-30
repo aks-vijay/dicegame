@@ -2,4 +2,4 @@
 
 Link: https://aks-vijay.github.io/dicegame/
 
-Refresh the app each time and the dice rolls.
+Roll the dice each time by refreshing the website. 
